@@ -1,7 +1,5 @@
 package week1;
 
-import java.util.Arrays;
-
 public class ex5 {
     public static void main(String[] args) {
 
